@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%>, I'm <a href="https://github.com/Manish-Lakkavatri">Manish Lakkavatri!</a></h1>
-<h3 align="center"> Aspiring Full Stack Developer | Tech Enthusiast </h3>
+<h3 align="center"> Aspiring Full Stack Developer | Tech Enthusiast | Open Source Contributor </h3>
 
 <br>
 
